@@ -3,7 +3,7 @@
 # 💫About Me :
 🔭 I’m a reputable Freelancer.\
  💬 Ask me about any tech-related web development.\
- 📫 How to reach me: discord display name-> Sam
+ 📫 How to reach me: discord display name-> Sam\
  😄 Pronouns: He/His\
 
 # 💻 Tech Stack:
