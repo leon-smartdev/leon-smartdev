@@ -1,11 +1,9 @@
-# Hello, I'm Niko Toivonen.
+# Hello, I'm Leon Simpson.
 
 # 💫About Me :
 🔭 I’m a reputable Freelancer.\
  💬 Ask me about any tech-related web development.\
- 📫 How to reach me: Email - nikonk3355@gmail.com\
- 📫 How to reach me: skype:  https://join.skype.com/invite/FiVWVQRzuCXa
- 📫 How to reach me: discord display name-> jellato    
+ 📫 How to reach me: discord display name-> Sam
  😄 Pronouns: He/His\
 
 # 💻 Tech Stack:
